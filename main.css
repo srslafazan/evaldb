@@ -1,0 +1,54 @@
+* {
+    border:0;
+    padding:0;
+    margin:0;
+}
+
+#container {
+    padding: 2% 0 0 2%;
+}
+
+.twelve h1 {
+    margin:  10% 0 3rem 5% ;
+}
+
+form {
+    margin: -5rem 0 0 5rem;
+    width: 30rem;
+    text-align: right;
+}
+
+.four .columns form {
+    margin: 10rem 0 0 0 ;
+}
+
+#thanks {
+    width:30%;
+    height:10rem;
+    background-color:green;
+    margin: 0 auto 2% 20rem;
+    border: 1px solid gray;
+    border-radius: 1rem;
+    color:white;
+    padding: 2.5rem;
+}
+
+#errors {
+    width: 20%;
+    height:20rem;
+    color:red;
+}
+
+.email {
+    margin:1% 2% 0 3%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #BBBBBB;
+    border: solid 2px black;
+    width: 5%;
+}
+
+
+#titles .two h3 {
+    margin: 1rem 0 0 3rem;
+}
